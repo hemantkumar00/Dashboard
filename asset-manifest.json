@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Dashboard/static/css/main.1ea7ee48.css",
+    "main.js": "/Dashboard/static/js/main.12d322f0.js",
+    "static/media/search-icon-png-9964.png": "/Dashboard/static/media/search-icon-png-9964.1b9efeadc232fe6a8e4b.png",
+    "index.html": "/Dashboard/index.html",
+    "main.1ea7ee48.css.map": "/Dashboard/static/css/main.1ea7ee48.css.map",
+    "main.12d322f0.js.map": "/Dashboard/static/js/main.12d322f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ea7ee48.css",
+    "static/js/main.12d322f0.js"
+  ]
+}
